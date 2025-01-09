@@ -1,0 +1,62 @@
+[
+  {
+    "name": "RAFA",
+    "url": "https://rafa.ai/",
+    "description": "A team of AI-powered investment experts in your pocket.",
+    "thumbnail": "https://ph-files.imgix.net/74b327b7-3040-41b3-b564-79d2026bfe62.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop&frame=1",
+    "followers": 27,
+    "tags": [
+      "Fintech",
+      "Investing"
+    ],
+    "category": "AI",
+    "source": "ProductHunt",
+    "screenshot": "RAFA_20250109_142225.png",
+    "crawled_at": "2025-01-09T14:22:30.464072"
+  },
+  {
+    "name": "Wondershare Virbo",
+    "url": "https://bit.ly/42mz42q",
+    "description": "Virbo enables users to create AI Avatar video.",
+    "thumbnail": "https://ph-files.imgix.net/ecfef827-fef2-43e1-91e9-772ac08ec4f9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop&frame=1",
+    "followers": 13,
+    "tags": [
+      "Marketing",
+      "Artificial Intelligence"
+    ],
+    "category": "AI",
+    "source": "ProductHunt",
+    "screenshot": "Wondershare_Virbo_20250109_142251.png",
+    "crawled_at": "2025-01-09T14:22:58.390787"
+  },
+  {
+    "name": "Corexta",
+    "url": "https://www.corexta.com/",
+    "description": "All-in-One Agency Management platform",
+    "thumbnail": "https://ph-files.imgix.net/a40d2c51-e2c9-41c5-8547-b3e80050a745.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop&frame=1",
+    "followers": 404,
+    "tags": [
+      "Productivity",
+      "Task Management"
+    ],
+    "category": "AI",
+    "source": "ProductHunt",
+    "screenshot": "Corexta_20250109_142312.png",
+    "crawled_at": "2025-01-09T14:23:22.225562"
+  },
+  {
+    "name": "Recognito Identity Verification SDKs",
+    "url": "https://recognito.vision/",
+    "description": "NIST FRVT Top #1 Face Recognition Algorithm Developer",
+    "thumbnail": "https://ph-files.imgix.net/c9acd4db-14d7-4c0f-b3ae-5f7eb7964007.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop&frame=1",
+    "followers": 496,
+    "tags": [
+      "API",
+      "SaaS"
+    ],
+    "category": "AI",
+    "source": "ProductHunt",
+    "screenshot": "Recognito_Identity_Verification_SDKs_20250109_142338.png",
+    "crawled_at": "2025-01-09T14:23:42.653614"
+  }
+]

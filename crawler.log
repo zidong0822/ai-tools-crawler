@@ -1,0 +1,1851 @@
+2025-01-09 10:50:13,113 - INFO - Starting crawler run
+2025-01-09 10:50:20,314 - INFO - 成功点击 Top Products 按钮
+2025-01-09 10:50:24,358 - INFO - 已加载 0 个产品
+2025-01-09 10:50:26,384 - INFO - 已加载 0 个产品
+2025-01-09 10:50:28,418 - INFO - 已加载 0 个产品
+2025-01-09 10:50:30,438 - INFO - 已加载 0 个产品
+2025-01-09 10:50:32,457 - INFO - 已加载 0 个产品
+2025-01-09 10:50:32,458 - INFO - 完成滚动加载操作，共滚动 5 次
+2025-01-09 10:50:32,526 - INFO - Saved 0 tools to ai_tools.json
+2025-01-09 10:50:32,526 - INFO - Completed crawler run
+2025-01-09 10:56:16,796 - INFO - Starting crawler run
+2025-01-09 10:56:43,945 - ERROR - 爬取ProductHunt时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102776138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x000000010276e988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x00000001021d4968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000102218d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001022524f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x000000010220d564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x000000010220e1b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000102740fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001027442dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000102727e60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000102744b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000102719678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x000000010275f2b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x000000010275f430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x000000010276e5fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 10:56:43,947 - INFO - Saved 0 tools to ai_tools.json
+2025-01-09 10:56:43,947 - INFO - Completed crawler run
+2025-01-09 10:57:40,508 - INFO - Starting crawler run
+2025-01-09 10:57:40,512 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 10:58:07,028 - ERROR - 等待初始内容加载失败: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100b76138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x0000000100b6e988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x00000001005d4968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000100618d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001006524f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x000000010060d564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x000000010060e1b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000100b40fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x0000000100b442dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000100b27e60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000100b44b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000100b19678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x0000000100b5f2b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000100b5f430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x0000000100b6e5fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 10:58:07,029 - ERROR - 爬取ProductHunt时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100b76138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x0000000100b6e988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x00000001005d4968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000100618d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001006524f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x000000010060d564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x000000010060e1b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000100b40fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x0000000100b442dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000100b27e60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000100b44b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000100b19678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x0000000100b5f2b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000100b5f430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x0000000100b6e5fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+错误类型: TimeoutException
+错误详情: {'msg': '', 'screen': None, 'stacktrace': ['0   chromedriver                        0x0000000100b76138 cxxbridge1$str$ptr + 3653888', '1   chromedriver                        0x0000000100b6e988 cxxbridge1$str$ptr + 3623248', '2   chromedriver                        0x00000001005d4968 cxxbridge1$string$len + 89228', '3   chromedriver                        0x0000000100618d4c cxxbridge1$string$len + 368752', '4   chromedriver                        0x00000001006524f0 cxxbridge1$string$len + 604180', '5   chromedriver                        0x000000010060d564 cxxbridge1$string$len + 321672', '6   chromedriver                        0x000000010060e1b4 cxxbridge1$string$len + 324824', '7   chromedriver                        0x0000000100b40fc0 cxxbridge1$str$ptr + 3436424', '8   chromedriver                        0x0000000100b442dc cxxbridge1$str$ptr + 3449508', '9   chromedriver                        0x0000000100b27e60 cxxbridge1$str$ptr + 3333672', '10  chromedriver                        0x0000000100b44b9c cxxbridge1$str$ptr + 3451748', '11  chromedriver                        0x0000000100b19678 cxxbridge1$str$ptr + 3274304', '12  chromedriver                        0x0000000100b5f2b4 cxxbridge1$str$ptr + 3560060', '13  chromedriver                        0x0000000100b5f430 cxxbridge1$str$ptr + 3560440', '14  chromedriver                        0x0000000100b6e5fc cxxbridge1$str$ptr + 3622340', '15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136', '16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8', '']}
+2025-01-09 10:58:07,029 - ERROR - Error in main crawler run: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100b76138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x0000000100b6e988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x00000001005d4968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000100618d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001006524f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x000000010060d564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x000000010060e1b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000100b40fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x0000000100b442dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000100b27e60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000100b44b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000100b19678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x0000000100b5f2b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000100b5f430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x0000000100b6e5fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 10:59:11,746 - INFO - Starting crawler run
+2025-01-09 10:59:11,748 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 11:00:20,288 - INFO - 成功找到选择器: div[class*="styles_item"]
+2025-01-09 11:00:20,289 - INFO - 成功加载初始内容
+2025-01-09 11:00:25,295 - INFO - 尝试定位 Top Products 按钮
+2025-01-09 11:00:25,332 - INFO - 找到 Top Products 按钮，准备点击
+2025-01-09 11:00:25,835 - INFO - 成功点击 Top Products 按钮
+2025-01-09 11:00:29,214 - INFO - 初始加载了 10 个产品卡片
+2025-01-09 11:00:31,274 - INFO - 已加载 0 个产品
+2025-01-09 11:00:33,303 - INFO - 已加载 0 个产品
+2025-01-09 11:00:35,329 - INFO - 已加载 0 个产品
+2025-01-09 11:00:37,347 - INFO - 已加载 0 个产品
+2025-01-09 11:00:39,372 - INFO - 已加载 0 个产品
+2025-01-09 11:00:39,372 - INFO - 完成滚动加载操作，共滚动 5 次
+2025-01-09 11:00:39,440 - INFO - 滚动加载后总共找到 30 个产品卡片
+2025-01-09 11:00:43,523 - INFO - 成功处理产品: RAFA, 标签: ['Fintech', 'Investing']
+2025-01-09 11:00:48,445 - INFO - 成功处理产品: Wondershare Virbo, 标签: ['Marketing', 'Artificial Intelligence']
+2025-01-09 11:00:53,241 - INFO - 成功处理产品: Corexta, 标签: ['Productivity', 'Task Management']
+2025-01-09 11:00:58,128 - INFO - 成功处理产品: Recognito Identity Verification SDKs, 标签: ['API', 'SaaS']
+2025-01-09 11:01:03,656 - INFO - 成功处理产品: Success.ai, 标签: ['Sales', 'Email Marketing']
+2025-01-09 11:01:09,110 - INFO - 成功处理产品: GPTBots.ai, 标签: ['Robots', 'Developer Tools']
+2025-01-09 11:01:14,082 - INFO - 成功处理产品: Artisse AI, 标签: ['Fashion', 'Photography']
+2025-01-09 11:01:19,812 - INFO - 成功处理产品: LightPDF, 标签: ['Android', 'iOS']
+2025-01-09 11:01:25,390 - INFO - 成功处理产品: GitMind, 标签: ['Productivity', 'User Experience']
+2025-01-09 11:01:30,257 - INFO - 成功处理产品: Jamie, 标签: ['Productivity', 'Artificial Intelligence']
+2025-01-09 11:01:34,980 - INFO - 成功处理产品: CapMonster Cloud, 标签: ['SEO', 'SaaS']
+2025-01-09 11:01:39,528 - INFO - 成功处理产品: Cargo, 标签: ['Productivity', 'Email Marketing']
+2025-01-09 11:01:44,386 - INFO - 成功处理产品: Rely.io, 标签: ['Software Engineering', 'Developer Tools']
+2025-01-09 11:01:49,091 - INFO - 成功处理产品: Vivi, 标签: ['Android', 'Artificial Intelligence']
+2025-01-09 11:01:53,803 - INFO - 成功处理产品: Sharpe Labs, 标签: ['Crypto', 'Artificial Intelligence']
+2025-01-09 11:01:58,513 - INFO - 成功处理产品: AIPowers, 标签: ['Android', 'Design Tools']
+2025-01-09 11:02:03,271 - INFO - 成功处理产品: Emma AI, 标签: ['Customer Communication', 'Marketing']
+2025-01-09 11:02:08,089 - INFO - 成功处理产品: AI Headshot Generator, 标签: ['Internet of Things', 'Photography']
+2025-01-09 11:02:12,826 - INFO - 成功处理产品: Sendspark, 标签: ['Chrome Extensions', 'Email']
+2025-01-09 11:02:17,678 - INFO - 成功处理产品: AI Image Upscaler by Upscale.media, 标签: ['Design Tools', 'Photography']
+2025-01-09 11:02:22,366 - INFO - 成功处理产品: Swapface, 标签: ['Streaming Services', 'Artificial Intelligence']
+2025-01-09 11:02:27,261 - INFO - 成功处理产品: Movie Deep Search by AI Keytalk, 标签: ['Streaming Services', 'Artificial Intelligence']
+2025-01-09 11:02:32,219 - INFO - 成功处理产品: Venturefy.ai, 标签: ['Sales', 'API']
+2025-01-09 11:02:39,020 - INFO - 成功处理产品: ChainGPT, 标签: ['Artificial Intelligence', 'Web3']
+2025-01-09 11:02:44,089 - INFO - 成功处理产品: ioni, 标签: ['Customer Success', 'Customer Communication']
+2025-01-09 11:02:48,819 - INFO - 成功处理产品: Pitch N Hire, 标签: ['Web App', 'Hiring']
+2025-01-09 11:02:53,783 - INFO - 成功处理产品: Reiki by Web3Go, 标签: ['Productivity', 'Artificial Intelligence']
+2025-01-09 11:02:58,718 - INFO - 成功处理产品: Temperstack, 标签: ['SaaS', 'Developer Tools']
+2025-01-09 11:03:03,479 - INFO - 成功处理产品: Zerve AI, 标签: ['Developer Tools', 'Artificial Intelligence']
+2025-01-09 11:03:08,528 - INFO - 成功处理产品: TranscribeMe, 标签: ['Messaging', 'Artificial Intelligence']
+2025-01-09 11:03:10,539 - INFO - Saved 30 tools to ai_tools.json
+2025-01-09 11:03:10,539 - INFO - Completed crawler run
+2025-01-09 11:07:10,357 - INFO - Starting crawler run
+2025-01-09 11:07:10,360 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 11:07:16,788 - INFO - 成功加载初始内容
+2025-01-09 11:07:16,917 - INFO - 成功点击 Top Products 按钮
+2025-01-09 11:07:19,938 - INFO - 初始加载了 0 个产品卡片
+2025-01-09 11:07:21,988 - INFO - 已加载 0 个产品
+2025-01-09 11:07:24,004 - INFO - 已加载 0 个产品
+2025-01-09 11:07:26,022 - INFO - 已加载 0 个产品
+2025-01-09 11:07:28,042 - INFO - 已加载 0 个产品
+2025-01-09 11:07:30,067 - INFO - 已加载 0 个产品
+2025-01-09 11:07:30,067 - INFO - 完成滚动加载操作，共滚动 5 次
+2025-01-09 11:07:30,144 - INFO - Saved 0 tools to ai_tools.json
+2025-01-09 11:07:30,144 - INFO - Completed crawler run
+2025-01-09 11:09:36,268 - INFO - Starting crawler run
+2025-01-09 11:09:36,273 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 11:10:10,289 - ERROR - 等待初始内容加载失败: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104d32138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x0000000104d2a988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104790968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x00000001047d4d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x000000010480e4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x00000001047c9564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x00000001047ca1b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000104cfcfc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x0000000104d002dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000104ce3e60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000104d00b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000104cd5678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x0000000104d1b2b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000104d1b430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x0000000104d2a5fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 11:10:10,290 - ERROR - 爬取ProductHunt时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104d32138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x0000000104d2a988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104790968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x00000001047d4d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x000000010480e4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x00000001047c9564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x00000001047ca1b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000104cfcfc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x0000000104d002dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000104ce3e60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000104d00b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000104cd5678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x0000000104d1b2b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000104d1b430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x0000000104d2a5fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+错误类型: TimeoutException
+错误详情: {'msg': '', 'screen': None, 'stacktrace': ['0   chromedriver                        0x0000000104d32138 cxxbridge1$str$ptr + 3653888', '1   chromedriver                        0x0000000104d2a988 cxxbridge1$str$ptr + 3623248', '2   chromedriver                        0x0000000104790968 cxxbridge1$string$len + 89228', '3   chromedriver                        0x00000001047d4d4c cxxbridge1$string$len + 368752', '4   chromedriver                        0x000000010480e4f0 cxxbridge1$string$len + 604180', '5   chromedriver                        0x00000001047c9564 cxxbridge1$string$len + 321672', '6   chromedriver                        0x00000001047ca1b4 cxxbridge1$string$len + 324824', '7   chromedriver                        0x0000000104cfcfc0 cxxbridge1$str$ptr + 3436424', '8   chromedriver                        0x0000000104d002dc cxxbridge1$str$ptr + 3449508', '9   chromedriver                        0x0000000104ce3e60 cxxbridge1$str$ptr + 3333672', '10  chromedriver                        0x0000000104d00b9c cxxbridge1$str$ptr + 3451748', '11  chromedriver                        0x0000000104cd5678 cxxbridge1$str$ptr + 3274304', '12  chromedriver                        0x0000000104d1b2b4 cxxbridge1$str$ptr + 3560060', '13  chromedriver                        0x0000000104d1b430 cxxbridge1$str$ptr + 3560440', '14  chromedriver                        0x0000000104d2a5fc cxxbridge1$str$ptr + 3622340', '15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136', '16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8', '']}
+2025-01-09 11:10:10,290 - ERROR - Error in main crawler run: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104d32138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x0000000104d2a988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104790968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x00000001047d4d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x000000010480e4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x00000001047c9564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x00000001047ca1b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000104cfcfc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x0000000104d002dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000104ce3e60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000104d00b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000104cd5678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x0000000104d1b2b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000104d1b430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x0000000104d2a5fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 11:11:10,371 - INFO - Starting crawler run
+2025-01-09 11:11:10,372 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 11:12:18,596 - INFO - 成功找到选择器: div[class*="styles_item"]
+2025-01-09 11:12:18,598 - INFO - 成功加载初始内容
+2025-01-09 11:12:23,599 - INFO - 尝试定位 Top Products 按钮
+2025-01-09 11:12:23,639 - INFO - 找到 Top Products 按钮，准备点击
+2025-01-09 11:12:24,116 - INFO - 成功点击 Top Products 按钮
+2025-01-09 11:12:27,466 - INFO - 初始加载了 10 个产品卡片
+2025-01-09 11:12:29,530 - INFO - 已加载 0 个产品
+2025-01-09 11:12:31,554 - INFO - 已加载 0 个产品
+2025-01-09 11:12:31,554 - INFO - 已到达页面底部
+2025-01-09 11:12:31,554 - INFO - 完成滚动加载操作，共滚动 1 次
+2025-01-09 11:12:31,611 - INFO - 滚动加载后总共找到 10 个产品卡片
+2025-01-09 11:12:36,562 - INFO - 成功处理产品: RAFA, 标签: ['Fintech', 'Investing']
+2025-01-09 11:12:42,708 - INFO - 成功处理产品: Wondershare Virbo, 标签: ['Marketing', 'Artificial Intelligence']
+2025-01-09 11:12:47,459 - INFO - 成功处理产品: Corexta, 标签: ['Productivity', 'Task Management']
+2025-01-09 11:12:52,137 - INFO - 成功处理产品: Recognito Identity Verification SDKs, 标签: ['API', 'SaaS']
+2025-01-09 11:12:56,714 - INFO - 成功处理产品: Success.ai, 标签: ['Sales', 'Email Marketing']
+2025-01-09 11:12:58,172 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/0caa5827eccd180fbf2021a30c936238
+2025-01-09 11:12:58,175 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103e15ae0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/0caa5827eccd180fbf2021a30c936238
+2025-01-09 11:12:58,176 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103e15c00>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/0caa5827eccd180fbf2021a30c936238
+2025-01-09 11:16:12,928 - INFO - Starting crawler run
+2025-01-09 11:16:12,932 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 11:17:19,931 - INFO - 成功找到选择器: div[class*="styles_item"]
+2025-01-09 11:17:19,932 - INFO - 成功加载初始内容
+2025-01-09 11:17:24,936 - INFO - 尝试定位 Top Products 按钮
+2025-01-09 11:17:25,015 - INFO - 找到 Top Products 按钮，准备点击
+2025-01-09 11:17:25,618 - INFO - 成功点击 Top Products 按钮
+2025-01-09 11:17:28,965 - INFO - 初始加载了 10 个产品卡片
+2025-01-09 11:17:31,024 - INFO - 已加载 0 个产品
+2025-01-09 11:17:33,043 - INFO - 已加载 0 个产品
+2025-01-09 11:17:35,071 - INFO - 已加载 0 个产品
+2025-01-09 11:17:37,096 - INFO - 已加载 0 个产品
+2025-01-09 11:17:39,131 - INFO - 已加载 0 个产品
+2025-01-09 11:17:39,131 - INFO - 完成滚动加载操作，共滚动 5 次
+2025-01-09 11:17:39,212 - INFO - 滚动加载后总共找到 30 个产品卡片
+2025-01-09 11:17:47,464 - INFO - 成功处理产品: RAFA, 标签: ['Fintech', 'Investing']
+2025-01-09 11:18:20,835 - ERROR - 处理产品卡片时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001034ca138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001034c2988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000102f28968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000102f6cd4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000102fa64f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000102f61564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000102f621b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000103494fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001034982dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010347be60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000103498b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x000000010346d678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001034b32b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x00000001034b3430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001034c25fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 11:18:32,726 - INFO - 成功处理产品: Wondershare Virbo, 标签: ['Marketing', 'Artificial Intelligence']
+2025-01-09 11:19:05,933 - ERROR - 处理产品卡片时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001034ca138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001034c2988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000102f28968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000102f6cd4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000102fa64f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000102f61564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000102f621b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000103494fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001034982dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010347be60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000103498b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x000000010346d678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001034b32b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x00000001034b3430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001034c25fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 11:19:08,137 - INFO - 成功处理产品: Corexta, 标签: ['Productivity', 'Task Management']
+2025-01-09 11:19:44,128 - ERROR - 处理产品卡片时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001034ca138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001034c2988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000102f28968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000102f6cd4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000102fa64f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000102f61564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000102f621b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000103494fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001034982dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010347be60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000103498b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x000000010346d678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001034b32b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x00000001034b3430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001034c25fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 11:19:46,356 - INFO - 成功处理产品: Recognito Identity Verification SDKs, 标签: ['API', 'SaaS']
+2025-01-09 11:20:20,589 - ERROR - 处理产品卡片时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001034ca138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001034c2988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000102f28968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000102f6cd4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000102fa64f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000102f61564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000102f621b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000103494fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001034982dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010347be60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000103498b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x000000010346d678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001034b32b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x00000001034b3430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001034c25fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 11:20:24,769 - INFO - 成功处理产品: Success.ai, 标签: ['Sales', 'Email Marketing']
+2025-01-09 11:20:58,775 - ERROR - 处理产品卡片时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001034ca138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001034c2988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000102f28968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000102f6cd4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000102fa64f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000102f61564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000102f621b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000103494fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001034982dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010347be60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000103498b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x000000010346d678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001034b32b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x00000001034b3430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001034c25fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 11:21:05,681 - INFO - 成功处理产品: GPTBots.ai, 标签: ['Robots', 'Developer Tools']
+2025-01-09 11:21:28,663 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/a841162e1963c0f870d9732569d23ded
+2025-01-09 11:21:28,665 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1076ea170>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a841162e1963c0f870d9732569d23ded
+2025-01-09 11:21:28,666 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1076e9de0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a841162e1963c0f870d9732569d23ded
+2025-01-09 12:19:49,646 - INFO - Starting crawler run
+2025-01-09 12:19:49,647 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 12:20:54,461 - INFO - 成功找到选择器: div[class*="styles_item"]
+2025-01-09 12:20:54,462 - INFO - 成功加载初始内容
+2025-01-09 12:20:59,467 - INFO - 尝试定位 Top Products 按钮
+2025-01-09 12:20:59,494 - INFO - 找到 Top Products 按钮，准备点击
+2025-01-09 12:21:00,001 - INFO - 成功点击 Top Products 按钮
+2025-01-09 12:21:03,367 - INFO - 初始加载了 10 个产品卡片
+2025-01-09 12:21:05,437 - INFO - 已加载 0 个产品
+2025-01-09 12:21:05,437 - INFO - 完成滚动加载操作，共滚动 1 次
+2025-01-09 12:21:05,498 - INFO - 滚动加载后总共找到 10 个产品卡片
+2025-01-09 12:21:13,679 - INFO - 成功处理产品: RAFA, 标签: ['Fintech', 'Investing']
+2025-01-09 12:23:02,032 - ERROR - 返回原始页面失败: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 12:23:02,034 - ERROR - 处理产品卡片时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+Traceback (most recent call last):
+  File "/Users/chynnahe/work/bujuantools/ai-tools-crawler/ai-tools-crawler.py", line 293, in crawl_producthunt
+    wait.until(EC.presence_of_element_located(
+  File "/Users/chynnahe/.pyenv/versions/3.10.0/lib/python3.10/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 12:23:09,116 - INFO - 成功处理产品: Wondershare Virbo, 标签: ['Marketing', 'Artificial Intelligence']
+2025-01-09 12:24:58,545 - ERROR - 返回原始页面失败: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 12:24:58,548 - ERROR - 处理产品卡片时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+Traceback (most recent call last):
+  File "/Users/chynnahe/work/bujuantools/ai-tools-crawler/ai-tools-crawler.py", line 293, in crawl_producthunt
+    wait.until(EC.presence_of_element_located(
+  File "/Users/chynnahe/.pyenv/versions/3.10.0/lib/python3.10/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 12:24:59,917 - INFO - 成功处理产品: Corexta, 标签: ['Productivity', 'Task Management']
+2025-01-09 12:26:51,366 - ERROR - 返回原始页面失败: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 12:26:51,371 - ERROR - 处理产品卡片时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+Traceback (most recent call last):
+  File "/Users/chynnahe/work/bujuantools/ai-tools-crawler/ai-tools-crawler.py", line 293, in crawl_producthunt
+    wait.until(EC.presence_of_element_located(
+  File "/Users/chynnahe/.pyenv/versions/3.10.0/lib/python3.10/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 12:26:54,467 - INFO - 成功处理产品: Recognito Identity Verification SDKs, 标签: ['API', 'SaaS']
+2025-01-09 12:28:43,621 - ERROR - 返回原始页面失败: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 12:28:43,621 - ERROR - 处理产品卡片时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+Traceback (most recent call last):
+  File "/Users/chynnahe/work/bujuantools/ai-tools-crawler/ai-tools-crawler.py", line 293, in crawl_producthunt
+    wait.until(EC.presence_of_element_located(
+  File "/Users/chynnahe/.pyenv/versions/3.10.0/lib/python3.10/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 12:29:03,942 - INFO - 成功处理产品: Success.ai, 标签: ['Sales', 'Email Marketing']
+2025-01-09 12:30:56,644 - ERROR - 返回原始页面失败: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 12:30:56,646 - ERROR - 处理产品卡片时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+Traceback (most recent call last):
+  File "/Users/chynnahe/work/bujuantools/ai-tools-crawler/ai-tools-crawler.py", line 293, in crawl_producthunt
+    wait.until(EC.presence_of_element_located(
+  File "/Users/chynnahe/.pyenv/versions/3.10.0/lib/python3.10/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 12:31:01,238 - INFO - 成功处理产品: GPTBots.ai, 标签: ['Robots', 'Developer Tools']
+2025-01-09 12:32:50,044 - ERROR - 返回原始页面失败: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 12:32:50,044 - ERROR - 处理产品卡片时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+Traceback (most recent call last):
+  File "/Users/chynnahe/work/bujuantools/ai-tools-crawler/ai-tools-crawler.py", line 293, in crawl_producthunt
+    wait.until(EC.presence_of_element_located(
+  File "/Users/chynnahe/.pyenv/versions/3.10.0/lib/python3.10/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 12:32:54,144 - INFO - 成功处理产品: Artisse AI, 标签: ['Fashion', 'Photography']
+2025-01-09 12:34:44,767 - ERROR - 返回原始页面失败: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 12:34:44,768 - ERROR - 处理产品卡片时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+Traceback (most recent call last):
+  File "/Users/chynnahe/work/bujuantools/ai-tools-crawler/ai-tools-crawler.py", line 293, in crawl_producthunt
+    wait.until(EC.presence_of_element_located(
+  File "/Users/chynnahe/.pyenv/versions/3.10.0/lib/python3.10/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 12:34:50,049 - INFO - 成功处理产品: LightPDF, 标签: ['Android', 'iOS']
+2025-01-09 12:36:39,880 - ERROR - 返回原始页面失败: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 12:36:39,883 - ERROR - 处理产品卡片时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+Traceback (most recent call last):
+  File "/Users/chynnahe/work/bujuantools/ai-tools-crawler/ai-tools-crawler.py", line 293, in crawl_producthunt
+    wait.until(EC.presence_of_element_located(
+  File "/Users/chynnahe/.pyenv/versions/3.10.0/lib/python3.10/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 12:36:46,800 - INFO - 成功处理产品: GitMind, 标签: ['Productivity', 'User Experience']
+2025-01-09 12:38:36,611 - ERROR - 返回原始页面失败: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 12:38:36,613 - ERROR - 处理产品卡片时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+Traceback (most recent call last):
+  File "/Users/chynnahe/work/bujuantools/ai-tools-crawler/ai-tools-crawler.py", line 293, in crawl_producthunt
+    wait.until(EC.presence_of_element_located(
+  File "/Users/chynnahe/.pyenv/versions/3.10.0/lib/python3.10/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 12:38:43,060 - INFO - 成功处理产品: Jamie, 标签: ['Productivity', 'Artificial Intelligence']
+2025-01-09 12:40:33,401 - ERROR - 返回原始页面失败: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 12:40:33,402 - ERROR - 处理产品卡片时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+Traceback (most recent call last):
+  File "/Users/chynnahe/work/bujuantools/ai-tools-crawler/ai-tools-crawler.py", line 293, in crawl_producthunt
+    wait.until(EC.presence_of_element_located(
+  File "/Users/chynnahe/.pyenv/versions/3.10.0/lib/python3.10/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051ae138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001051a6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000104c0c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104c50d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104c8a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104c45564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104c461b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000105178fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x000000010517c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010515fe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x000000010517cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000105151678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001051972b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000105197430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001051a65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 12:40:33,406 - INFO - Saved 10 tools to ai_tools.json
+2025-01-09 12:40:33,406 - INFO - Completed crawler run
+2025-01-09 13:13:55,978 - INFO - Starting crawler run
+2025-01-09 13:13:55,981 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 13:15:30,395 - INFO - 成功加载初始内容
+2025-01-09 13:15:35,402 - INFO - 尝试定位 Top Products 按钮
+2025-01-09 13:16:05,625 - ERROR - 点击 Top Products 按钮时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001009a6138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x000000010099e988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000100404968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000100448d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001004824f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x000000010043d564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x000000010043e1b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000100970fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001009742dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000100957e60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000100974b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000100949678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x000000010098f2b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x000000010098f430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x000000010099e5fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+错误类型: TimeoutException
+2025-01-09 13:16:05,642 - ERROR - 爬取ProductHunt时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001009a6138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x000000010099e988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000100404968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000100448d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001004824f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x000000010043d564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x000000010043e1b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000100970fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001009742dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000100957e60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000100974b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000100949678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x000000010098f2b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x000000010098f430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x000000010099e5fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+错误类型: TimeoutException
+错误详情: {'msg': '', 'screen': None, 'stacktrace': ['0   chromedriver                        0x00000001009a6138 cxxbridge1$str$ptr + 3653888', '1   chromedriver                        0x000000010099e988 cxxbridge1$str$ptr + 3623248', '2   chromedriver                        0x0000000100404968 cxxbridge1$string$len + 89228', '3   chromedriver                        0x0000000100448d4c cxxbridge1$string$len + 368752', '4   chromedriver                        0x00000001004824f0 cxxbridge1$string$len + 604180', '5   chromedriver                        0x000000010043d564 cxxbridge1$string$len + 321672', '6   chromedriver                        0x000000010043e1b4 cxxbridge1$string$len + 324824', '7   chromedriver                        0x0000000100970fc0 cxxbridge1$str$ptr + 3436424', '8   chromedriver                        0x00000001009742dc cxxbridge1$str$ptr + 3449508', '9   chromedriver                        0x0000000100957e60 cxxbridge1$str$ptr + 3333672', '10  chromedriver                        0x0000000100974b9c cxxbridge1$str$ptr + 3451748', '11  chromedriver                        0x0000000100949678 cxxbridge1$str$ptr + 3274304', '12  chromedriver                        0x000000010098f2b4 cxxbridge1$str$ptr + 3560060', '13  chromedriver                        0x000000010098f430 cxxbridge1$str$ptr + 3560440', '14  chromedriver                        0x000000010099e5fc cxxbridge1$str$ptr + 3622340', '15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136', '16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8', '']}
+2025-01-09 13:16:05,642 - ERROR - Error in main crawler run: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001009a6138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x000000010099e988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000100404968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000100448d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001004824f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x000000010043d564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x000000010043e1b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000100970fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001009742dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000100957e60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000100974b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000100949678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x000000010098f2b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x000000010098f430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x000000010099e5fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 13:17:54,855 - INFO - Starting crawler run
+2025-01-09 13:17:54,858 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 13:19:28,348 - INFO - 成功加载初始内容
+2025-01-09 13:19:33,355 - INFO - 尝试定位 Top Products 按钮
+2025-01-09 13:20:03,394 - ERROR - 点击 Top Products 按钮时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010080e138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x0000000100806988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x000000010026c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x00000001002b0d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001002ea4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x00000001002a5564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x00000001002a61b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x00000001007d8fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001007dc2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x00000001007bfe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x00000001007dcb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x00000001007b1678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001007f72b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x00000001007f7430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001008065fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+错误类型: TimeoutException
+2025-01-09 13:20:03,402 - ERROR - 爬取ProductHunt时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010080e138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x0000000100806988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x000000010026c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x00000001002b0d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001002ea4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x00000001002a5564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x00000001002a61b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x00000001007d8fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001007dc2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x00000001007bfe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x00000001007dcb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x00000001007b1678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001007f72b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x00000001007f7430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001008065fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+错误类型: TimeoutException
+错误详情: {'msg': '', 'screen': None, 'stacktrace': ['0   chromedriver                        0x000000010080e138 cxxbridge1$str$ptr + 3653888', '1   chromedriver                        0x0000000100806988 cxxbridge1$str$ptr + 3623248', '2   chromedriver                        0x000000010026c968 cxxbridge1$string$len + 89228', '3   chromedriver                        0x00000001002b0d4c cxxbridge1$string$len + 368752', '4   chromedriver                        0x00000001002ea4f0 cxxbridge1$string$len + 604180', '5   chromedriver                        0x00000001002a5564 cxxbridge1$string$len + 321672', '6   chromedriver                        0x00000001002a61b4 cxxbridge1$string$len + 324824', '7   chromedriver                        0x00000001007d8fc0 cxxbridge1$str$ptr + 3436424', '8   chromedriver                        0x00000001007dc2dc cxxbridge1$str$ptr + 3449508', '9   chromedriver                        0x00000001007bfe60 cxxbridge1$str$ptr + 3333672', '10  chromedriver                        0x00000001007dcb9c cxxbridge1$str$ptr + 3451748', '11  chromedriver                        0x00000001007b1678 cxxbridge1$str$ptr + 3274304', '12  chromedriver                        0x00000001007f72b4 cxxbridge1$str$ptr + 3560060', '13  chromedriver                        0x00000001007f7430 cxxbridge1$str$ptr + 3560440', '14  chromedriver                        0x00000001008065fc cxxbridge1$str$ptr + 3622340', '15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136', '16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8', '']}
+2025-01-09 13:20:03,403 - ERROR - Error in main crawler run: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010080e138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x0000000100806988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x000000010026c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x00000001002b0d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001002ea4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x00000001002a5564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x00000001002a61b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x00000001007d8fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001007dc2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x00000001007bfe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x00000001007dcb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x00000001007b1678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001007f72b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x00000001007f7430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001008065fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 13:20:59,906 - INFO - Starting crawler run
+2025-01-09 13:20:59,909 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 13:22:05,690 - INFO - 成功找到选择器: div[class*="styles_item"]
+2025-01-09 13:22:05,692 - INFO - 成功加载初始内容
+2025-01-09 13:22:10,697 - INFO - 尝试定位 Top Products 按钮
+2025-01-09 13:22:10,738 - INFO - 找到 Top Products 按钮，准备点击
+2025-01-09 13:22:11,226 - INFO - 成功点击 Top Products 按钮
+2025-01-09 13:22:14,585 - INFO - 初始加载了 10 个产品卡片
+2025-01-09 13:22:16,647 - INFO - 已加载 0 个产品
+2025-01-09 13:22:16,647 - INFO - 完成滚动加载操作，共滚动 1 次
+2025-01-09 13:22:16,705 - INFO - 滚动加载后总共找到 10 个产品卡片
+2025-01-09 13:22:19,796 - INFO - 成功处理产品: RAFA, 标签: ['Fintech', 'Investing']
+2025-01-09 13:24:07,830 - ERROR - 返回原始页面失败: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001026fe138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001026f6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x000000010215c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x00000001021a0d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001021da4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000102195564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x00000001021961b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x00000001026c8fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001026cc2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x00000001026afe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x00000001026ccb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x00000001026a1678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001026e72b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x00000001026e7430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001026f65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 13:24:07,830 - ERROR - 处理产品卡片时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001026fe138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001026f6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x000000010215c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x00000001021a0d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001021da4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000102195564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x00000001021961b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x00000001026c8fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001026cc2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x00000001026afe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x00000001026ccb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x00000001026a1678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001026e72b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x00000001026e7430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001026f65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+Traceback (most recent call last):
+  File "/Users/chynnahe/work/bujuantools/ai-tools-crawler/ai-tools-crawler.py", line 293, in crawl_producthunt
+    wait.until(EC.presence_of_element_located(
+  File "/Users/chynnahe/.pyenv/versions/3.10.0/lib/python3.10/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001026fe138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001026f6988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x000000010215c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x00000001021a0d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001021da4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000102195564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x00000001021961b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x00000001026c8fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001026cc2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x00000001026afe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x00000001026ccb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x00000001026a1678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001026e72b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x00000001026e7430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001026f65fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 13:24:11,236 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104d24a30>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c234b1fea73b847505c18d31dcf26697
+2025-01-09 13:24:11,237 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104d24ca0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c234b1fea73b847505c18d31dcf26697
+2025-01-09 13:24:11,237 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104d24df0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c234b1fea73b847505c18d31dcf26697
+2025-01-09 13:25:43,636 - INFO - Starting crawler run
+2025-01-09 13:25:43,638 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 13:26:50,958 - INFO - 成功找到选择器: div[class*="styles_item"]
+2025-01-09 13:26:50,960 - INFO - 成功加载初始内容
+2025-01-09 13:26:55,965 - INFO - 尝试定位 Top Products 按钮
+2025-01-09 13:26:56,005 - INFO - 找到 Top Products 按钮，准备点击
+2025-01-09 13:26:56,564 - INFO - 成功点击 Top Products 按钮
+2025-01-09 13:26:59,914 - INFO - 初始加载了 10 个产品卡片
+2025-01-09 13:27:01,976 - INFO - 已加载 0 个产品
+2025-01-09 13:27:01,976 - INFO - 完成滚动加载操作，共滚动 1 次
+2025-01-09 13:27:02,033 - INFO - 滚动加载后总共找到 10 个产品卡片
+2025-01-09 13:27:02,033 - INFO - 访问产品详情页: https://www.producthunt.com/products/rafa-2
+2025-01-09 13:27:05,289 - INFO - 成功获取真实URL: https://rafa.ai/?ref=producthunt
+2025-01-09 13:27:05,289 - INFO - 成功处理产品: RAFA, 标签: ['Fintech', 'Investing']
+2025-01-09 13:28:53,479 - ERROR - 返回原始页面失败: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104b96138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x0000000104b8e988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x00000001045f4968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104638d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001046724f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x000000010462d564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x000000010462e1b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000104b60fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x0000000104b642dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000104b47e60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000104b64b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000104b39678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x0000000104b7f2b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000104b7f430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x0000000104b8e5fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 13:28:53,480 - ERROR - 处理产品卡片时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104b96138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x0000000104b8e988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x00000001045f4968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104638d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001046724f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x000000010462d564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x000000010462e1b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000104b60fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x0000000104b642dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000104b47e60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000104b64b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000104b39678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x0000000104b7f2b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000104b7f430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x0000000104b8e5fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+Traceback (most recent call last):
+  File "/Users/chynnahe/work/bujuantools/ai-tools-crawler/ai-tools-crawler.py", line 303, in crawl_producthunt
+    wait.until(EC.presence_of_element_located(
+  File "/Users/chynnahe/.pyenv/versions/3.10.0/lib/python3.10/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104b96138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x0000000104b8e988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x00000001045f4968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104638d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001046724f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x000000010462d564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x000000010462e1b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000104b60fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x0000000104b642dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000104b47e60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000104b64b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000104b39678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x0000000104b7f2b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000104b7f430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x0000000104b8e5fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 13:28:53,482 - INFO - 访问产品详情页: https://www.producthunt.com/products/wondershare-virbo
+2025-01-09 13:28:55,432 - INFO - 成功获取真实URL: https://bit.ly/42mz42q?ref=producthunt
+2025-01-09 13:28:55,432 - INFO - 成功处理产品: Wondershare Virbo, 标签: ['Marketing', 'Artificial Intelligence']
+2025-01-09 13:29:25,081 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/ce8ca0da0c64bc757eae26d5772eb35e
+2025-01-09 13:29:25,083 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1041cd6c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/ce8ca0da0c64bc757eae26d5772eb35e
+2025-01-09 13:29:25,084 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1041cd5d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/ce8ca0da0c64bc757eae26d5772eb35e
+2025-01-09 13:31:13,874 - INFO - Starting crawler run
+2025-01-09 13:31:13,875 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 13:31:51,278 - WARNING - 加载主页面失败，尝试重试 1/3: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100e3e138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x0000000100e36988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x000000010089c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x00000001008e0d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x000000010091a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x00000001008d5564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x00000001008d61b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000100e08fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x0000000100e0c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000100defe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000100e0cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000100de1678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x0000000100e272b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000100e27430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x0000000100e365fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 13:32:29,248 - WARNING - 加载主页面失败，尝试重试 2/3: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100e3e138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x0000000100e36988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x000000010089c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x00000001008e0d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x000000010091a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x00000001008d5564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x00000001008d61b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000100e08fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x0000000100e0c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000100defe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000100e0cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000100de1678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x0000000100e272b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000100e27430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x0000000100e365fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 13:33:07,634 - ERROR - 爬取ProductHunt时出错: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100e3e138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x0000000100e36988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x000000010089c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x00000001008e0d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x000000010091a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x00000001008d5564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x00000001008d61b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000100e08fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x0000000100e0c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000100defe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000100e0cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000100de1678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x0000000100e272b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000100e27430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x0000000100e365fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+错误类型: TimeoutException
+错误详情: {'msg': '', 'screen': None, 'stacktrace': ['0   chromedriver                        0x0000000100e3e138 cxxbridge1$str$ptr + 3653888', '1   chromedriver                        0x0000000100e36988 cxxbridge1$str$ptr + 3623248', '2   chromedriver                        0x000000010089c968 cxxbridge1$string$len + 89228', '3   chromedriver                        0x00000001008e0d4c cxxbridge1$string$len + 368752', '4   chromedriver                        0x000000010091a4f0 cxxbridge1$string$len + 604180', '5   chromedriver                        0x00000001008d5564 cxxbridge1$string$len + 321672', '6   chromedriver                        0x00000001008d61b4 cxxbridge1$string$len + 324824', '7   chromedriver                        0x0000000100e08fc0 cxxbridge1$str$ptr + 3436424', '8   chromedriver                        0x0000000100e0c2dc cxxbridge1$str$ptr + 3449508', '9   chromedriver                        0x0000000100defe60 cxxbridge1$str$ptr + 3333672', '10  chromedriver                        0x0000000100e0cb9c cxxbridge1$str$ptr + 3451748', '11  chromedriver                        0x0000000100de1678 cxxbridge1$str$ptr + 3274304', '12  chromedriver                        0x0000000100e272b4 cxxbridge1$str$ptr + 3560060', '13  chromedriver                        0x0000000100e27430 cxxbridge1$str$ptr + 3560440', '14  chromedriver                        0x0000000100e365fc cxxbridge1$str$ptr + 3622340', '15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136', '16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8', '']}
+2025-01-09 13:33:07,636 - ERROR - Error in main crawler run: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100e3e138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x0000000100e36988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x000000010089c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x00000001008e0d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x000000010091a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x00000001008d5564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x00000001008d61b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000100e08fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x0000000100e0c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000100defe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000100e0cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000100de1678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x0000000100e272b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000100e27430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x0000000100e365fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 13:33:17,558 - INFO - Starting crawler run
+2025-01-09 13:33:17,558 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 13:33:55,255 - WARNING - 加载主页面失败，尝试重试 1/3: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010285a138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x0000000102852988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x00000001022b8968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x00000001022fcd4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001023364f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x00000001022f1564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x00000001022f21b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000102824fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001028282dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x000000010280be60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000102828b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x00000001027fd678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001028432b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000102843430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001028525fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 13:34:27,140 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/c845c3f76a207242aa8ea4d6d783f9eb
+2025-01-09 13:34:27,142 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105e082e0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c845c3f76a207242aa8ea4d6d783f9eb
+2025-01-09 13:34:27,145 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105e08610>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c845c3f76a207242aa8ea4d6d783f9eb
+2025-01-09 13:36:03,567 - INFO - Starting crawler run
+2025-01-09 13:36:03,570 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 13:37:36,552 - INFO - 页面成功加载，使用选择器: div[class*="styles_item"]
+2025-01-09 13:37:41,567 - WARNING - 页面验证失败: 未找到产品卡片
+2025-01-09 13:37:41,568 - WARNING - 页面加载失败，等待 10 秒后重试
+2025-01-09 13:39:25,720 - INFO - 页面成功加载，使用选择器: div[class*="styles_item"]
+2025-01-09 13:39:30,737 - WARNING - 页面验证失败: 未找到产品卡片
+2025-01-09 13:39:30,737 - WARNING - 页面加载失败，等待 20 秒后重试
+2025-01-09 13:41:24,804 - INFO - 页面成功加载，使用选择器: div[class*="styles_item"]
+2025-01-09 13:41:29,815 - WARNING - 页面验证失败: 未找到产品卡片
+2025-01-09 13:41:29,815 - WARNING - 页面加载失败，等待 30 秒后重试
+2025-01-09 13:41:31,942 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/937c5075f87f29e21058a91d50e3bc70
+2025-01-09 13:41:31,944 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102595240>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/937c5075f87f29e21058a91d50e3bc70
+2025-01-09 13:41:31,945 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102595030>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/937c5075f87f29e21058a91d50e3bc70
+2025-01-09 13:42:25,600 - INFO - Starting crawler run
+2025-01-09 13:42:25,602 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 13:43:59,678 - INFO - 页面成功加载，使用选择器: div[class*="styles_item"]
+2025-01-09 13:44:04,699 - WARNING - 页面验证失败: 未找到产品卡片
+2025-01-09 13:44:04,699 - WARNING - 页面加载失败，等待 10 秒后重试
+2025-01-09 13:44:34,481 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /session/35070535e96e032a9cb0893dbb346cf1
+2025-01-09 13:44:34,487 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1024951e0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/35070535e96e032a9cb0893dbb346cf1
+2025-01-09 13:44:34,488 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102495510>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/35070535e96e032a9cb0893dbb346cf1
+2025-01-09 13:45:03,842 - INFO - Starting crawler run
+2025-01-09 13:45:03,843 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 13:45:52,618 - WARNING - 加载主页面失败，尝试重试 1/5: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001007a6138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x000000010079e988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000100204968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000100248d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001002824f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x000000010023d564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x000000010023e1b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000100770fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001007742dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000100757e60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000100774b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000100749678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x000000010078f2b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x000000010078f430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x000000010079e5fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 13:46:07,884 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/3d7113ce0ae1fb46a99f66567e562632
+2025-01-09 13:46:07,885 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10667c5e0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3d7113ce0ae1fb46a99f66567e562632
+2025-01-09 13:46:07,886 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10667c700>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3d7113ce0ae1fb46a99f66567e562632
+2025-01-09 13:46:09,846 - INFO - Starting crawler run
+2025-01-09 13:46:09,847 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 13:47:02,311 - WARNING - 加载主页面失败，尝试重试 1/5: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104c3e138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x0000000104c36988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x000000010469c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x00000001046e0d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x000000010471a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x00000001046d5564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x00000001046d61b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000104c08fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x0000000104c0c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000104befe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000104c0cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000104be1678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x0000000104c272b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000104c27430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x0000000104c365fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 13:48:00,780 - WARNING - 加载主页面失败，尝试重试 2/5: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104c3e138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x0000000104c36988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x000000010469c968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x00000001046e0d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x000000010471a4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x00000001046d5564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x00000001046d61b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000104c08fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x0000000104c0c2dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000104befe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000104c0cb9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000104be1678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x0000000104c272b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000104c27430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x0000000104c365fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 13:48:03,741 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/f08da0c4136ac993aba85efc9c138fb9
+2025-01-09 13:48:03,743 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1024aab30>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/f08da0c4136ac993aba85efc9c138fb9
+2025-01-09 13:48:03,745 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1024aa920>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/f08da0c4136ac993aba85efc9c138fb9
+2025-01-09 13:48:22,000 - INFO - Starting crawler run
+2025-01-09 13:48:22,003 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 13:49:12,261 - WARNING - 加载主页面失败，尝试重试 1/5: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100a4a138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x0000000100a42988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x00000001004a8968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x00000001004ecd4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001005264f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x00000001004e1564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x00000001004e21b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000100a14fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x0000000100a182dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x00000001009fbe60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000100a18b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x00000001009ed678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x0000000100a332b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x0000000100a33430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x0000000100a425fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 13:49:16,190 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/cdd02fc44833757168bbab7c61324f1a
+2025-01-09 13:49:16,193 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1067c8610>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/cdd02fc44833757168bbab7c61324f1a
+2025-01-09 13:49:16,194 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1067c85e0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/cdd02fc44833757168bbab7c61324f1a
+2025-01-09 14:05:11,729 - INFO - Starting crawler run
+2025-01-09 14:05:11,732 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 14:06:01,939 - WARNING - 加载主页面失败，尝试重试 1/5: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001007e6138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001007de988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000100244968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000100288d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001002c24f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x000000010027d564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x000000010027e1b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x00000001007b0fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001007b42dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000100797e60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x00000001007b4b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000100789678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001007cf2b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x00000001007cf430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001007de5fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 14:06:59,573 - WARNING - 加载主页面失败，尝试重试 2/5: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001007e6138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001007de988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000100244968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000100288d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001002c24f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x000000010027d564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x000000010027e1b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x00000001007b0fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001007b42dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000100797e60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x00000001007b4b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000100789678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001007cf2b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x00000001007cf430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001007de5fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 14:07:59,530 - WARNING - 加载主页面失败，尝试重试 3/5: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001007e6138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x00000001007de988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000100244968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000100288d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001002c24f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x000000010027d564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x000000010027e1b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x00000001007b0fc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001007b42dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000100797e60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x00000001007b4b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000100789678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x00000001007cf2b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x00000001007cf430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x00000001007de5fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 14:08:09,375 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/e2c443768ef76669d51dfc55b390f530
+2025-01-09 14:08:09,389 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x107e184c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e2c443768ef76669d51dfc55b390f530
+2025-01-09 14:08:09,392 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x107e18550>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e2c443768ef76669d51dfc55b390f530
+2025-01-09 14:08:38,297 - INFO - Starting crawler run
+2025-01-09 14:08:38,298 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 14:08:38,320 - WARNING - 清理浏览器数据时出错: Message: javascript error: {"status":18,"value":"Failed to read the 'localStorage' property from 'Window': Storage is disabled inside 'data:' URLs."}
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x0000000101032138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x000000010102a988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000100a90968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000100a9584c cxxbridge1$string$len + 109424
+4   chromedriver                        0x0000000100a97b3c cxxbridge1$string$len + 118368
+5   chromedriver                        0x0000000100b0ed44 cxxbridge1$string$len + 606312
+6   chromedriver                        0x0000000100b0e4f0 cxxbridge1$string$len + 604180
+7   chromedriver                        0x0000000100ac9564 cxxbridge1$string$len + 321672
+8   chromedriver                        0x0000000100aca1b4 cxxbridge1$string$len + 324824
+9   chromedriver                        0x0000000100ffcfc0 cxxbridge1$str$ptr + 3436424
+10  chromedriver                        0x00000001010002dc cxxbridge1$str$ptr + 3449508
+11  chromedriver                        0x0000000100fe3e60 cxxbridge1$str$ptr + 3333672
+12  chromedriver                        0x0000000101000b9c cxxbridge1$str$ptr + 3451748
+13  chromedriver                        0x0000000100fd5678 cxxbridge1$str$ptr + 3274304
+14  chromedriver                        0x000000010101b2b4 cxxbridge1$str$ptr + 3560060
+15  chromedriver                        0x000000010101b430 cxxbridge1$str$ptr + 3560440
+16  chromedriver                        0x000000010102a5fc cxxbridge1$str$ptr + 3622340
+17  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 14:09:32,026 - WARNING - 第 1 次加载失败: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101032138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x000000010102a988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000100a90968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000100ad4d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000100b0e4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000100ac9564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000100aca1b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000100ffcfc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001010002dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000100fe3e60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000101000b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000100fd5678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x000000010101b2b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x000000010101b430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x000000010102a5fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 14:09:32,031 - INFO - 当前页面标题: Product Hunt – The best new products in tech.
+2025-01-09 14:09:32,035 - INFO - 当前URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 14:09:32,395 - INFO - 已清理浏览器数据
+2025-01-09 14:10:33,513 - WARNING - 第 2 次加载失败: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101032138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x000000010102a988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000100a90968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000100ad4d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000100b0e4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000100ac9564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000100aca1b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000100ffcfc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001010002dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000100fe3e60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000101000b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000100fd5678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x000000010101b2b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x000000010101b430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x000000010102a5fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 14:10:33,518 - INFO - 当前页面标题: Product Hunt – The best new products in tech.
+2025-01-09 14:10:33,522 - INFO - 当前URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 14:10:33,877 - INFO - 已清理浏览器数据
+2025-01-09 14:11:45,264 - WARNING - 第 3 次加载失败: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101032138 cxxbridge1$str$ptr + 3653888
+1   chromedriver                        0x000000010102a988 cxxbridge1$str$ptr + 3623248
+2   chromedriver                        0x0000000100a90968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000100ad4d4c cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000100b0e4f0 cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000100ac9564 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000100aca1b4 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000100ffcfc0 cxxbridge1$str$ptr + 3436424
+8   chromedriver                        0x00000001010002dc cxxbridge1$str$ptr + 3449508
+9   chromedriver                        0x0000000100fe3e60 cxxbridge1$str$ptr + 3333672
+10  chromedriver                        0x0000000101000b9c cxxbridge1$str$ptr + 3451748
+11  chromedriver                        0x0000000100fd5678 cxxbridge1$str$ptr + 3274304
+12  chromedriver                        0x000000010101b2b4 cxxbridge1$str$ptr + 3560060
+13  chromedriver                        0x000000010101b430 cxxbridge1$str$ptr + 3560440
+14  chromedriver                        0x000000010102a5fc cxxbridge1$str$ptr + 3622340
+15  libsystem_pthread.dylib             0x000000018b8bb2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b8b60fc thread_start + 8
+
+2025-01-09 14:11:45,270 - INFO - 当前页面标题: Product Hunt – The best new products in tech.
+2025-01-09 14:11:45,273 - INFO - 当前URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 14:11:45,628 - INFO - 已清理浏览器数据
+2025-01-09 14:12:01,308 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x110194be0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/78e62b3e94e32f80d2a93f7980d47745
+2025-01-09 14:12:01,313 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x110195150>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/78e62b3e94e32f80d2a93f7980d47745
+2025-01-09 14:12:01,315 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1101950f0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/78e62b3e94e32f80d2a93f7980d47745
+2025-01-09 14:15:17,560 - INFO - Starting crawler run
+2025-01-09 14:15:17,564 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 14:15:24,137 - INFO - 已清理cookies
+2025-01-09 14:15:24,144 - INFO - 已清理localStorage和sessionStorage
+2025-01-09 14:15:25,659 - INFO - 成功点击Top Products按钮，使用选择器: //button[contains(text(), 'Top Products')]
+2025-01-09 14:15:29,015 - INFO - 页面加载和切换成功
+2025-01-09 14:15:29,345 - INFO - 主页面加载成功，准备处理内容
+2025-01-09 14:15:31,387 - INFO - 已加载 0 个产品
+2025-01-09 14:15:31,387 - INFO - 完成滚动加载操作，共滚动 1 次
+2025-01-09 14:15:31,445 - INFO - 滚动加载后总共找到 10 个产品卡片
+2025-01-09 14:15:31,445 - INFO - 访问产品详情页: https://www.producthunt.com/products/rafa-2
+2025-01-09 14:15:35,937 - INFO - 成功获取真实URL: https://rafa.ai/?ref=producthunt
+2025-01-09 14:15:35,996 - INFO - 成功处理产品: RAFA, 标签: ['Fintech', 'Investing']
+2025-01-09 14:15:40,545 - INFO - 访问产品详情页: https://www.producthunt.com/products/wondershare-virbo
+2025-01-09 14:15:43,370 - INFO - 成功获取真实URL: https://bit.ly/42mz42q?ref=producthunt
+2025-01-09 14:15:43,429 - INFO - 成功处理产品: Wondershare Virbo, 标签: ['Marketing', 'Artificial Intelligence']
+2025-01-09 14:15:48,650 - INFO - 访问产品详情页: https://www.producthunt.com/products/corexta
+2025-01-09 14:15:49,916 - INFO - 成功获取真实URL: https://www.corexta.com/?ref=producthunt
+2025-01-09 14:15:49,974 - INFO - 成功处理产品: Corexta, 标签: ['Productivity', 'Task Management']
+2025-01-09 14:15:54,808 - INFO - 访问产品详情页: https://www.producthunt.com/products/on-premise-face-recognition-sdk-for-ekyc
+2025-01-09 14:15:56,097 - INFO - 成功获取真实URL: https://recognito.vision/?ref=producthunt
+2025-01-09 14:15:56,156 - INFO - 成功处理产品: Recognito Identity Verification SDKs, 标签: ['API', 'SaaS']
+2025-01-09 14:16:00,177 - INFO - 访问产品详情页: https://www.producthunt.com/products/success-ai
+2025-01-09 14:16:01,483 - INFO - 成功获取真实URL: http://success.ai/?ref=producthunt
+2025-01-09 14:16:01,541 - INFO - 成功处理产品: Success.ai, 标签: ['Sales', 'Email Marketing']
+2025-01-09 14:16:06,773 - INFO - 访问产品详情页: https://www.producthunt.com/products/gptbots-ai
+2025-01-09 14:16:07,705 - INFO - 成功获取真实URL: https://www.gptbots.ai/?ref=producthunt
+2025-01-09 14:16:07,763 - INFO - 成功处理产品: GPTBots.ai, 标签: ['Robots', 'Developer Tools']
+2025-01-09 14:16:12,684 - INFO - 访问产品详情页: https://www.producthunt.com/products/artisse-ai
+2025-01-09 14:16:15,426 - INFO - 成功获取真实URL: https://artisse.ai/?ref=producthunt
+2025-01-09 14:16:15,488 - INFO - 成功处理产品: Artisse AI, 标签: ['Fashion', 'Photography']
+2025-01-09 14:16:21,121 - INFO - 访问产品详情页: https://www.producthunt.com/products/lightpdf
+2025-01-09 14:16:22,436 - INFO - 成功获取真实URL: https://lightpdf.com/?ref=producthunt
+2025-01-09 14:16:22,499 - INFO - 成功处理产品: LightPDF, 标签: ['Android', 'iOS']
+2025-01-09 14:16:27,908 - INFO - 访问产品详情页: https://www.producthunt.com/products/gitmind
+2025-01-09 14:16:31,191 - INFO - 成功获取真实URL: https://gitmind.com/?ref=producthunt
+2025-01-09 14:16:31,247 - INFO - 成功处理产品: GitMind, 标签: ['Productivity', 'User Experience']
+2025-01-09 14:16:35,323 - INFO - 访问产品详情页: https://www.producthunt.com/products/jamie
+2025-01-09 14:16:37,814 - INFO - 成功获取真实URL: https://meetjamie.ai/?ref=producthunt
+2025-01-09 14:16:37,871 - INFO - 成功处理产品: Jamie, 标签: ['Productivity', 'Artificial Intelligence']
+2025-01-09 14:16:42,724 - INFO - Saved 10 tools to ai_tools.json
+2025-01-09 14:16:42,724 - INFO - Completed crawler run
+2025-01-09 14:19:18,889 - INFO - Starting crawler run
+2025-01-09 14:19:18,892 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 14:19:26,551 - INFO - 已清理cookies
+2025-01-09 14:19:26,564 - INFO - 已清理localStorage和sessionStorage
+2025-01-09 14:19:32,538 - INFO - 成功点击Top Products按钮，使用选择器: //button[contains(text(), 'Top Products')]
+2025-01-09 14:19:35,891 - INFO - 页面加载和切换成功
+2025-01-09 14:19:36,234 - INFO - 主页面加载成功，准备处理内容
+2025-01-09 14:19:38,262 - INFO - 已加载 0 个产品
+2025-01-09 14:19:38,262 - INFO - 完成滚动加载操作，共滚动 1 次
+2025-01-09 14:19:38,322 - INFO - 滚动加载后总共找到 10 个产品卡片
+2025-01-09 14:19:38,325 - INFO - 访问产品详情页: https://www.producthunt.com/products/rafa-2
+2025-01-09 14:19:42,886 - INFO - 成功获取真实URL: https://rafa.ai/?ref=producthunt
+2025-01-09 14:19:58,929 - INFO - 成功保存截图: screenshots/RAFA_20250109_141953.png
+2025-01-09 14:19:58,985 - INFO - 成功处理产品: RAFA, 标签: ['Fintech', 'Investing']
+2025-01-09 14:20:04,220 - INFO - 访问产品详情页: https://www.producthunt.com/products/wondershare-virbo
+2025-01-09 14:20:07,675 - INFO - 成功获取真实URL: https://bit.ly/42mz42q?ref=producthunt
+2025-01-09 14:20:30,471 - INFO - 成功保存截图: screenshots/Wondershare_Virbo_20250109_142023.png
+2025-01-09 14:20:30,530 - INFO - 成功处理产品: Wondershare Virbo, 标签: ['Marketing', 'Artificial Intelligence']
+2025-01-09 14:20:36,385 - INFO - 访问产品详情页: https://www.producthunt.com/products/corexta
+2025-01-09 14:20:38,713 - INFO - 成功获取真实URL: https://www.corexta.com/?ref=producthunt
+2025-01-09 14:20:58,304 - INFO - 成功保存截图: screenshots/Corexta_20250109_142048.png
+2025-01-09 14:20:58,360 - INFO - 成功处理产品: Corexta, 标签: ['Productivity', 'Task Management']
+2025-01-09 14:21:02,249 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/33484443e90ed713ac0f780f7925fb88
+2025-01-09 14:21:02,250 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103503fa0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/33484443e90ed713ac0f780f7925fb88
+2025-01-09 14:21:02,251 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103503e20>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/33484443e90ed713ac0f780f7925fb88
+2025-01-09 14:21:58,395 - INFO - Starting crawler run
+2025-01-09 14:21:58,397 - INFO - 开始访问URL: https://www.producthunt.com/topics/artificial-intelligence
+2025-01-09 14:22:04,574 - INFO - 已清理cookies
+2025-01-09 14:22:04,583 - INFO - 已清理localStorage和sessionStorage
+2025-01-09 14:22:08,291 - INFO - 成功点击Top Products按钮，使用选择器: //button[contains(text(), 'Top Products')]
+2025-01-09 14:22:11,709 - INFO - 页面加载和切换成功
+2025-01-09 14:22:12,064 - INFO - 主页面加载成功，准备处理内容
+2025-01-09 14:22:14,105 - INFO - 已加载 0 个产品
+2025-01-09 14:22:14,105 - INFO - 完成滚动加载操作，共滚动 1 次
+2025-01-09 14:22:14,171 - INFO - 滚动加载后总共找到 10 个产品卡片
+2025-01-09 14:22:14,171 - INFO - 访问产品详情页: https://www.producthunt.com/products/rafa-2
+2025-01-09 14:22:16,840 - INFO - 成功获取真实URL: https://rafa.ai/?ref=producthunt
+2025-01-09 14:22:30,404 - INFO - 成功保存截图: screenshots/RAFA_20250109_142225.png
+2025-01-09 14:22:30,464 - INFO - 成功处理产品: RAFA, 标签: ['Fintech', 'Investing']
+2025-01-09 14:22:34,936 - INFO - 访问产品详情页: https://www.producthunt.com/products/wondershare-virbo
+2025-01-09 14:22:38,617 - INFO - 成功获取真实URL: https://bit.ly/42mz42q?ref=producthunt
+2025-01-09 14:22:58,331 - INFO - 成功保存截图: screenshots/Wondershare_Virbo_20250109_142251.png
+2025-01-09 14:22:58,390 - INFO - 成功处理产品: Wondershare Virbo, 标签: ['Marketing', 'Artificial Intelligence']
+2025-01-09 14:23:03,242 - INFO - 访问产品详情页: https://www.producthunt.com/products/corexta
+2025-01-09 14:23:04,805 - INFO - 成功获取真实URL: https://www.corexta.com/?ref=producthunt
+2025-01-09 14:23:22,165 - INFO - 成功保存截图: screenshots/Corexta_20250109_142312.png
+2025-01-09 14:23:22,225 - INFO - 成功处理产品: Corexta, 标签: ['Productivity', 'Task Management']
+2025-01-09 14:23:27,965 - INFO - 访问产品详情页: https://www.producthunt.com/products/on-premise-face-recognition-sdk-for-ekyc
+2025-01-09 14:23:30,630 - INFO - 成功获取真实URL: https://recognito.vision/?ref=producthunt
+2025-01-09 14:23:42,594 - INFO - 成功保存截图: screenshots/Recognito_Identity_Verification_SDKs_20250109_142338.png
+2025-01-09 14:23:42,653 - INFO - 成功处理产品: Recognito Identity Verification SDKs, 标签: ['API', 'SaaS']
+2025-01-09 14:23:47,314 - INFO - 访问产品详情页: https://www.producthunt.com/products/success-ai
+2025-01-09 14:23:49,494 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1254616c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c/window
+2025-01-09 14:23:49,495 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125460b80>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c/window
+2025-01-09 14:23:49,496 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1254617b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c/window
+2025-01-09 14:23:49,497 - ERROR - 获取真实URL时出错: HTTPConnectionPool(host='localhost', port=55716): Max retries exceeded with url: /session/758732531f9d58d6913cebff94cb289c/window (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125461900>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-01-09 14:23:49,498 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125461b70>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c/window
+2025-01-09 14:23:49,500 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125461db0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c/window
+2025-01-09 14:23:49,501 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125461fc0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c/window
+2025-01-09 14:23:49,504 - WARNING - 跳过产品 Success.ai：无法获取真实URL
+2025-01-09 14:23:49,504 - INFO - 访问产品详情页: https://www.producthunt.com/products/gptbots-ai
+2025-01-09 14:23:49,505 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125461a50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c/window
+2025-01-09 14:23:49,506 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125462560>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c/window
+2025-01-09 14:23:49,507 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1254626b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c/window
+2025-01-09 14:23:49,507 - ERROR - 获取真实URL时出错: HTTPConnectionPool(host='localhost', port=55716): Max retries exceeded with url: /session/758732531f9d58d6913cebff94cb289c/window (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125462830>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-01-09 14:23:49,507 - WARNING - 跳过产品 GPTBots.ai：无法获取真实URL
+2025-01-09 14:23:49,508 - INFO - 访问产品详情页: https://www.producthunt.com/products/artisse-ai
+2025-01-09 14:23:49,508 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1254629b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c/window
+2025-01-09 14:23:49,510 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125462b60>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c/window
+2025-01-09 14:23:49,511 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125462cb0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c/window
+2025-01-09 14:23:49,511 - ERROR - 获取真实URL时出错: HTTPConnectionPool(host='localhost', port=55716): Max retries exceeded with url: /session/758732531f9d58d6913cebff94cb289c/window (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125462e30>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-01-09 14:23:49,511 - WARNING - 跳过产品 Artisse AI：无法获取真实URL
+2025-01-09 14:23:49,511 - INFO - 访问产品详情页: https://www.producthunt.com/products/lightpdf
+2025-01-09 14:23:49,512 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125462fb0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c/window
+2025-01-09 14:23:49,513 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125463160>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c/window
+2025-01-09 14:23:49,513 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1254632b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c/window
+2025-01-09 14:23:49,514 - ERROR - 获取真实URL时出错: HTTPConnectionPool(host='localhost', port=55716): Max retries exceeded with url: /session/758732531f9d58d6913cebff94cb289c/window (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125463430>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-01-09 14:23:49,514 - WARNING - 跳过产品 LightPDF：无法获取真实URL
+2025-01-09 14:23:49,514 - INFO - 访问产品详情页: https://www.producthunt.com/products/gitmind
+2025-01-09 14:23:49,515 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1254635b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c/window
+2025-01-09 14:23:49,516 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1254630d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c/window
+2025-01-09 14:23:49,517 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1254634f0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c/window
+2025-01-09 14:23:49,522 - ERROR - 获取真实URL时出错: HTTPConnectionPool(host='localhost', port=55716): Max retries exceeded with url: /session/758732531f9d58d6913cebff94cb289c/window (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125463280>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-01-09 14:23:49,527 - WARNING - 跳过产品 GitMind：无法获取真实URL
+2025-01-09 14:23:49,527 - INFO - 访问产品详情页: https://www.producthunt.com/products/jamie
+2025-01-09 14:23:49,529 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125463520>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c/window
+2025-01-09 14:23:49,534 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125462ad0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c/window
+2025-01-09 14:23:49,542 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125462ef0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c/window
+2025-01-09 14:23:49,548 - ERROR - 获取真实URL时出错: HTTPConnectionPool(host='localhost', port=55716): Max retries exceeded with url: /session/758732531f9d58d6913cebff94cb289c/window (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125462c80>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-01-09 14:23:49,553 - WARNING - 跳过产品 Jamie：无法获取真实URL
+2025-01-09 14:23:49,565 - INFO - Saved 4 tools to ai_tools.json
+2025-01-09 14:23:49,565 - INFO - Completed crawler run
+2025-01-09 14:23:49,572 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125462590>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c
+2025-01-09 14:23:49,573 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125462470>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c
+2025-01-09 14:23:49,578 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125462200>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/758732531f9d58d6913cebff94cb289c
